@@ -2,7 +2,7 @@
 
 Submitted by: **Sri Krishna Narendrula**
 
-**Broject** is an app that shows what my name, universtiy name, and aspirational job is. The main feature is a button that says "Color Change?" and changes the background color randomly when pressed. 
+**Broject** is an app that shows what my name, university name, and aspirational job is. The main feature is a button that says "Color Change?" and changes the background color randomly when pressed. 
 
 Time spent: **2 1/2** hours spent in total
 
@@ -41,7 +41,7 @@ The challenges I had mostly involved familiarizing myself with the xcode interfa
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Sri Krishna Narendrula]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
