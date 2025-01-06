@@ -1,17 +1,17 @@
-# Prework - *Name of App Here*
+# Prework - *Broject*
 
 Submitted by: **Sri Krishna Narendrula**
 
-**Name of your app** is an app that... [TODO] 
+**Broject** is an app that shows what my name, universtiy name, and aspirational job is. The main feature is a button that says "Color Change?" and changes the background color randomly when pressed. 
 
-Time spent: **X** hours spent in total
+Time spent: **2 1/2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -21,9 +21,23 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+Spotify
+- Offline music downloads
+- Curated playlists and recommendations
+
+Google Maps
+- Real-time traffic updates
+- Offline maps
+
+Reddit
+- Topic-based communities (subreddits)
+- Voting system for ranking content
+
+App Idea: My idea is a homework checklist app called Homework Hero. It would have reminders and progress tracking making it easy to manage tasks and deadlines effectively. The app allows users to organize tasks by subject, priority, or due date and set custom reminders for upcoming deadlines. Users can track their progress with visual indicators, create recurring assignments for weekly or daily tasks, and even work offline to access and update checklists without an internet connection. Homework Hero also includes collaboration tools, enabling students to share task lists with classmates or group members. With calendar integration, tasks can sync seamlessly with Google Calendar or other calendar apps. Users can also attach images, links, or files to assignments for quick access to resources. This app aims to provide a straightforward and effective solution for managing homework and academic tasks, empowering students to stay organized and productive.
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+The challenges I had mostly involved familiarizing myself with the xcode interface. I also inserted the changeColor function before the changeBackgroundColor function and that stopped me for like 5-10 minutes. 
 
 ## License
 
